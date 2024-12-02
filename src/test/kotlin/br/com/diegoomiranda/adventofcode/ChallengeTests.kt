@@ -1,4 +1,4 @@
-package br.com.diegoomiranda
+package br.com.diegoomiranda.adventofcode
 
 import day01part02
 import day01partO1
